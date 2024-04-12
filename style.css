@@ -1,3 +1,14 @@
 body {
-    color;image-rendering: var(color);
+    color: rgb(255, 0, 0);
+    background-color:blue
+}
+
+img {
+    width: 30%;
+}
+
+
+
+h1 {
+    font-size: 50px;
 }
